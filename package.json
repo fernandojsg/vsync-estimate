@@ -1,0 +1,19 @@
+{
+  "name": "vsync-estimate",
+  "version": "0.1.0",
+  "description": "Estimate browser's vsync based on rAF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandojsg/vsync-estimate.git"
+  },
+  "author": "Fernando Serrano <fernandojsg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandojsg/vsync-estimate/issues"
+  },
+  "homepage": "https://github.com/fernandojsg/vsync-estimate#readme"
+}
